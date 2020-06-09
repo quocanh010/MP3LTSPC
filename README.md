@@ -11,12 +11,12 @@ Another contribution of this work is making available
 a large corpus of shipboard LiDAR scan data from the
 museum ship USS Midway.  <br />
 The whole dataset for this project contains in  https://drive.google.com/open?id=1-JmWPIzUmuzz9g-f-XLtgj808bcN0QhE <br />
-# Software requirement: <br />
+#### Software requirement: <br />
 FARO SCENCE LT: https://knowledge.faro.com/Software/FARO_SCENE/SCENE/Software_Download_Installation_and_Release_Notes_for_SCENE_LT <br />
 The software to extract .xyz and pano images <br />
-# Test data (already extracted from Faro Scene lt Midway data) <br />
+#### Test data (already extracted from Faro Scene lt Midway data) <br />
 Test data is on "Midway_contain_bulleyes_pics" with panorama images and "Midway_contain_xyz" <br />
-# Full midway data: <br />
+#### Full midway data: <br />
 Please download the rest of the data present from a google drive
 ### Faro Scene lt Data Extraction tutorial 
 This is a tutorial on how to extract data from a faro pointcloud project <br />
