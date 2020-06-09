@@ -1,7 +1,6 @@
 ## *Method to Perform 3D Localization of Text in Shipboard Point Cloud Data Using Corresponding 2D Image*
 Created by Adrina Mai, Dr Mark Bilinski, Raymond Provost - NIWC Pacific
 
-![prediction example](https://github.com/charlesq34/pointnet/blob/master/doc/teaser.png)
 
 ### Introduction
 This work is based on our ...link..., which is going to appear in IEEE ICCE 2020. 3D object detection and localization have been major focuses for the computer vision community for the past several years. However, extracting informa-tion from a 3D point cloud is often a more cumbersome and labor intensive task compared to just 2D images. 2D techniques are more mature and also have far more labelled training data. The contribution of this work is to leverage 2D computer vision techniques on a panorama image and use that to extract information from the 3D point cloud, in the case where there is an existing cor-respondence between the panorama and the point cloud. Performance of the algorithm will be based on 2D object detection, and 3D position and rotation of the object. The objects of interest are text placards called "bullseyes" that are found throughout US Navy ships. 3D data of this type of environment is limited, impacting the ability of researchers to develop and test their algorithms. Another contribution of this work is making available a large corpus of shipboard LiDAR scan data from the museum ship USS Midway. Index Terms-Object Localization, Point Cloud, Computer Vision, Machine Learning.
