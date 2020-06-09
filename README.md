@@ -1,5 +1,5 @@
 ## *Method to Perform 3D Localization of Text in Shipboard Point Cloud Data Using Corresponding 2D Image*
-Created by Adrina Mai, Dr Mark Bilinski, Raymond Provost - NIWC Pacific
+Created by Adrian Mai, Dr Mark Bilinski, Raymond Provost - NIWC Pacific
 
 
 ### Introduction
