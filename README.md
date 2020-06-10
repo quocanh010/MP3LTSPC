@@ -1,6 +1,6 @@
 ## *Method to Perform 3D Localization of Text in Shipboard Point Cloud Data Using Corresponding 2D Image*
 Created by Adrian Mai, Dr Mark Bilinski, Raymond Provost - NIWC Pacific <br />
-![prediction example](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/full.png)
+![full prediction](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/full.png)
 
 ### Introduction
 This work is based on our ...link..., which is going to appear in IEEE ICCE 2020. <br />
@@ -20,7 +20,9 @@ Test data is on "Midway_contain_bulleyes_pics" with panorama images and "Midway_
 Please download the rest of the data present from a google drive
 ### Faro Scene lt Data Extraction tutorial 
 This is a tutorial on how to extract data from a faro pointcloud project <br />
-   
+## 1. Import project: 
+To import project click import then direct to the location of the complete faro project then double click on the project
+![import  project](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/1.png)
 ### Installation
 Requires: Python 3
 To install all the required python packages fro the project: 
