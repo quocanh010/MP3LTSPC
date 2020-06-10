@@ -1,6 +1,6 @@
 ## *Method to Perform 3D Localization of Text in Shipboard Point Cloud Data Using Corresponding 2D Image*
-Created by Adrian Mai, Dr Mark Bilinski, Raymond Provost - NIWC Pacific
-![prediction example](https://github.com/quocanh010/MP3LTSPC/display_image/full.png)
+Created by Adrian Mai, Dr Mark Bilinski, Raymond Provost - NIWC Pacific <br />
+![prediction example](https://github.com/quocanh010/MP3LTSPC/display_images/full.png)
 
 ### Introduction
 This work is based on our ...link..., which is going to appear in IEEE ICCE 2020. <br />
