@@ -13,7 +13,7 @@ museum ship USS Midway.  <br />
 The whole dataset for this project contains in  https://drive.google.com/open?id=1-JmWPIzUmuzz9g-f-XLtgj808bcN0QhE <br />
 ### Software requirement: <br />
 FARO SCENCE LT: https://knowledge.faro.com/Software/FARO_SCENE/SCENE/Software_Download_Installation_and_Release_Notes_for_SCENE_LT <br />
-The software to extract .xyz and pano images <br />
+The input to our algorithm is .xyz and pano images.  This software can convert the scanner data into those formats.  An example workflow is provided below. <br />
 ### Test data (already extracted from Faro Scene lt Midway data) <br />
 Test data is on "Midway_contain_bulleyes_pics" with panorama images and "Midway_contain_xyz" <br />
 ### Full midway data: <br />
@@ -23,8 +23,6 @@ This is a tutorial on how to extract data from a faro pointcloud project <br />
 ### 1. Import project: 
 - To import project open FARO SCENE software then click Import then direct to the location of the complete faro project. Double click on the project <br />
 ![import  project1](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/1.jpg)
-- To see project click on Explore tab <br />
-![import  project2](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/2.jpg)
 ### 2. Export xyz scan data:
 - To export xyz data. Right click on the whole scan -> Export -> Scans -> Scans-Ordered  <br />
 ![export  scans1](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/3.jpg)  <br />
