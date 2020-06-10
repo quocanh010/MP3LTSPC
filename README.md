@@ -21,8 +21,19 @@ Please download the rest of the data present from a google drive
 ### Faro Scene lt Data Extraction tutorial 
 This is a tutorial on how to extract data from a faro pointcloud project <br />
 ## 1. Import project: 
-To import project click import then direct to the location of the complete faro project then double click on the project
-![import  project](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/1.png)
+- To import project open FARO SCENE software then click Import then direct to the location of the complete faro project. Double click on the project <br />
+![import  project1](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/1.jpg)
+- To see project click on Explore tab <br />
+![import  project2](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/2.jpg)
+## 2. Export xyz scan data:
+- To export xyz data. Right click on the whole scan -> Export -> Scans -> Scans-Ordered  <br />
+![export  scans1](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/3.jpg)  <br />
+- Next very important step is to make sure to check on the "Export each scan into a separate file." This will allow Faro to export each individual scan.  <br />
+- Choose an appropriate folder then click Export at the bottom  <br />
+![export  scans2](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/4.jpg)
+## 3. Export panorama image data:
+- To export pano image data. Right click on the whole scan -> Export -> Panoramic Images -> Scans Resolution. Then pick an appropriate folder <br />
+![export  pano](https://github.com/quocanh010/MP3LTSPC/blob/master/display_images/5.jpg)
 ### Installation
 Requires: Python 3
 To install all the required python packages fro the project: 
